@@ -1,6 +1,7 @@
 <?php  
-define('URL', 'http://yana-tz');
+define('URL', 'http://ostrow9j.beget.tech');
 define('DBHOST', 'localhost');
-define('DBUSER', 'root');
-define('DBPASS', '');
-define('DBNAME', 'tz');
+define('DBUSER', 'ostrow9j_tz1');
+define('DBPASS', '123456');
+define('DBNAME', 'ostrow9j_tz1');
+
